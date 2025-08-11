@@ -52,7 +52,6 @@
 
 ### 📫 Contact Me
 <p align="center">
-<a href="https://dev.otamoon.hu" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="mailto:dev@otamoon.hu" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="https://github.com/Hedi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
