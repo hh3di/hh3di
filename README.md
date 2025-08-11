@@ -1,5 +1,3 @@
-[🇬🇧 English](README.md) | [🇭🇺 Magyar](README.hu.md)
-
 <h1 align="center">Hi 👋, I'm HEDI</h1>
 <h3 align="center">Fullstack Web Developer from Hungary</h3>
 
