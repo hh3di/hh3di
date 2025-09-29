@@ -38,12 +38,6 @@
 <a href="https://www.debian.org/" target="_blank"><img src="https://www.debian.org/favicon.ico" width="40" alt="Debian"/></a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hh3di&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
 
 ---
 
