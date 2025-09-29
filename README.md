@@ -30,12 +30,13 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/></a>
 <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" alt="MariaDB"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="40" alt="Rust"/></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="40" alt="Rust"/></a>
 <a href="https://nginx.org/" target="_blank"><img src="https://images.icon-icons.com/2699/PNG/512/nginx_logo_icon_169915.png" width="40" alt="Nginx"/></a>
 <a href="https://httpd.apache.org/" target="_blank"><img src="https://download.logo.wine/logo/Apache_HTTP_Server/Apache_HTTP_Server-Logo.wine.png" width="80" alt="Apache"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/></a>
 <a href="https://www.debian.org/" target="_blank"><img src="https://www.debian.org/favicon.ico" width="40" alt="Debian"/></a>
+<a href="https://reactrouter.com/" target="_blank"><img src="https://reactrouter.com/favicon-dark.png" width="40" alt="React Router"/></a>
 </p>
 
 
