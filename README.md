@@ -36,6 +36,7 @@
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/></a>
 <a href="https://www.debian.org/" target="_blank"><img src="https://www.debian.org/favicon.ico" width="40" alt="Debian"/></a>
 <a href="https://reactrouter.com/" target="_blank"><img src="https://reactrouter.com/favicon-dark.png" width="40" alt="React Router"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"/></a>
 </p>
 
 
