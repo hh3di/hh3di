@@ -24,7 +24,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://expressjs.com/images/favicon.png" width="40" alt="Express"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://expressjs.com/apple-touch-icon.png" width="40" alt="Express"/></a>
 <a href="https://fastify.dev" target="_blank"><img src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" width="40" alt="Fastify"/></a>
 <a href="https://sequelize.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/3591786?s=200&v=4" width="40" alt="Sequelize"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/></a>
