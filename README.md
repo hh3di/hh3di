@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 - 🚀 Self-taught developer since **2017**
-- 💻 Mostly working with **Remix.run**, **React Router**, and **TypeScript**
+- 💻 Mostly working with **React Router v7**, and **TypeScript**
 - 🌐 Passionate about building **web apps** and **APIs**
 - 🎯 Always looking for **new challenges** and **opportunities to learn**
 - 📚 Interested in trying **new technologies**
