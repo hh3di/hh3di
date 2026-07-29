@@ -16,7 +16,6 @@
 ### 🛠️ Languages & Tools
 <p align="center">
 <a href="https://react.dev" target="_blank"><img src="https://react.dev/favicon.ico" width="40" alt="React"/></a>
-<a href="https://remix.run" target="_blank"><img src="https://remix.run/favicon-128.png" width="40" alt="Remix"/></a>
 <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" alt="Angular"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.typescriptlang.org/icons/icon-512x512.png" width="40" alt="TypeScript"/></a>
